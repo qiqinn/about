@@ -1,4 +1,6 @@
 ### Bonjour 👋
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=qiqinn&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiqinn&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+### Statistics
+<img align="left" alt="qin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=qiqinn&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="50%"/>
+<img align="left" alt="qin's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=qiqinn&theme=vue-dark&hide_border=true" width="50%"/>
+<img align="left" alt="aqin's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiqinn&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="50%"/>
