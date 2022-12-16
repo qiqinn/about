@@ -4,14 +4,12 @@ I am  a  data enthusiast
 
 
 ### Connect with me:
-[<img align="left" alt="qiqinn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="color:white;"/>][twitter]
-[<img align="left" alt="qiqinn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="qiqinn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[twitter]: https://twitter.com/goodnightqin/
-[instagram]: https://www.instagram.com/goodnightqin/
-[linkedin]: https://www.linkedin.com/in/muthaqin-dean/
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/goodnightqin/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qiqinn)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muthaqin-dean/)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deanmuthaqin@gmail.com)
 
 <br>
 
